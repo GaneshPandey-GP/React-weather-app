@@ -4,6 +4,7 @@ import SimpleCard from "./CurrentCard";
 import WeaklyCard from "./WeaklyCard";
 import Location from "./Location";
 import "../index.css";
+
 const Current = (probs) => {
   const [currentWeather, setcurrentWeather] = useState({
     city: "",

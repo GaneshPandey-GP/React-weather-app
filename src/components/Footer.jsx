@@ -7,9 +7,9 @@ const Footer = () => {
 
    
 </div> */}
-      <div class="card text-center row" style={{background:"transparent",outline:"none"}}>
+      <div className="card text-center row" style={{background:"transparent",outline:"none"}}>
         
-        <div class="card-body col-sm-12 footer ml-3">
+        <div className="card-body col-sm-12 footer ml-3">
           <footer>
             <span>Ganesh Pandey</span>
             <br /> Copyright © 2020 | All Rights Reserved
